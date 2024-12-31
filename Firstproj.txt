@@ -1,1 +1,3 @@
 Hello World 
+take input 
+and add them .. lets do algo
